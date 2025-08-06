@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: repo-releases
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/devlgpa/Repo-Releases
+Author: Chalo Devlgpa
+Author-email: lpalaciosayala@gmail.comm
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
